@@ -1,0 +1,24 @@
+PODS:
+  - B_Category (1):
+    - CTMediator
+  - CTMediator (0.0.2)
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+
+DEPENDENCIES:
+  - B_Category (from `../B_Category`)
+  - FMDB
+
+EXTERNAL SOURCES:
+  B_Category:
+    :path: "../B_Category"
+
+SPEC CHECKSUMS:
+  B_Category: 7a747f180cc2e4be864ea88d920a27a8bb7ac65f
+  CTMediator: da466319e36f9e0d033af4769c0741d04c6b14c5
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+
+PODFILE CHECKSUM: f3b9cd4da8c4b8919e8b8665e92646290fd0c133
+
+COCOAPODS: 1.2.0.beta.1
